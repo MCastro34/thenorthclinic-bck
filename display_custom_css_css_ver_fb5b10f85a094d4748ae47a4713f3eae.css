@@ -1,0 +1,470 @@
+/*Mudar cor dos elementos do submenu pt*/
+#menu-item-1621 a, #menu-item-1593 a, #menu-item-1598 a, #menu-item-1596 a, #menu-item-1597 a, #menu-item-2078 a {
+  color: #1C3B33;
+}
+
+/*Mudar cor da borda do submenu pt*/
+.ast-desktop .main-header-menu.submenu-with-border .sub-menu, .ast-desktop .main-header-menu.submenu-with-border .children, .ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper {
+  border-color: #1C3B33;
+}
+
+/*Mudar cor dos elementos do submenu en*/
+#menu-item-1670 a, #menu-item-1850 a, #menu-item-1851 a, #menu-item-1852 a, #menu-item-1853 a, #menu-item-2080 a {
+  color: #1C3B33;
+}
+
+/*Mudar background color do menu entre desktop e mobile - no tema aparece transparente*/
+.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu {
+  background-color: #ffffff;
+}
+
+
+.site-logo{
+    padding:20;
+}
+.elementor-6 .elementor-element.elementor-element-d601f84{
+  width:100%;
+}
+
+.banner-100vh {
+ height: 100vh;
+}
+
+.banner-40vh {
+ height: 40vh;
+}
+
+.titulo-centrado {
+ position: absolute;
+ top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+}
+
+@media only screen and (max-width: 767px) {
+  .remove-image {
+    height: 400px;
+  }
+}
+
+/*EDIÇÃO HOMEPAGE - Página inicial*/
+
+.elementor-2029 .elementor-element.elementor-element-1546adeb {
+  height:100vh;
+}
+
+.elementor-2029 .elementor-element.elementor-element-1546adeb > .elementor-container {
+  top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+}
+
+@media (min-width: 1024px){
+  .elementor-2029 .elementor-element.elementor-element-1546adeb > .elementor-container {
+ margin: inherit;
+}
+}
+
+
+
+
+/*EDIÇÃO HOMEPAGE - PT*/
+
+.elementor-950 .elementor-element.elementor-element-567911d {
+  height:100vh;
+}
+
+
+.elementor-950 .elementor-element.elementor-element-567911d > .elementor-container {
+  top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+}
+
+@media (min-width: 1024px){
+  .elementor-950 .elementor-element.elementor-element-567911d > .elementor-container {
+ margin: inherit;
+}
+}
+
+@media (max-width: 1024px){
+  .elementor-950 .elementor-element.elementor-element-567911d > .elementor-container {
+    padding-left: 75px;
+    padding-right: 75px;
+}
+}
+
+@media (max-width: 767px){
+  .elementor-950 .elementor-element.elementor-element-567911d > .elementor-container {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+}
+
+@media (max-width: 600px){
+  .elementor-950 .elementor-element.elementor-element-567911d > .elementor-container {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+}
+
+
+@media (max-width: 767px){
+.elementor-950 .elementor-element.elementor-element-567911d {
+  height:65vh;
+}
+}
+
+
+
+@media (max-width: 767px) {
+.elementor-950 .elementor-element.elementor-element-567911d {
+    padding: 0px 20px 0px 20px;
+}
+}
+
+@media (max-width: 1024px){
+.elementor-950 .elementor-element.elementor-element-567911d {
+   padding: 0px 25px 0px 25px; 
+}
+}
+
+.elementor-950 .elementor-element.elementor-element-567911d {
+    padding: 0px 0px 0px 0px;
+}
+
+
+/*EDIÇÃO HOMEPAGE - EN*/
+
+.elementor-6 .elementor-element.elementor-element-567911d {
+  height:100vh;
+}
+
+
+.elementor-6 .elementor-element.elementor-element-567911d > .elementor-container {
+  top: 50%;
+ left: 50%;
+ transform: translate(-50%, -50%);
+}
+
+@media (min-width: 1024px){
+  .elementor-6 .elementor-element.elementor-element-567911d > .elementor-container {
+ margin: inherit;
+}
+}
+
+@media (max-width: 1024px){
+  .elementor-6 .elementor-element.elementor-element-567911d > .elementor-container {
+    padding-left: 75px;
+    padding-right: 75px;
+}
+}
+
+@media (max-width: 767px){
+  .elementor-6 .elementor-element.elementor-element-567911d > .elementor-container {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+}
+
+@media (max-width: 600px){
+  .elementor-6 .elementor-element.elementor-element-567911d > .elementor-container {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+}
+
+@media (max-width: 767px){
+.elementor-6 .elementor-element.elementor-element-567911d {
+  height:65vh;
+}
+}
+
+
+@media (max-width: 767px) {
+.elementor-6 .elementor-element.elementor-element-567911d {
+    padding: 0px 20px 0px 20px;
+}
+}
+
+@media (max-width: 1024px){
+.elementor-6 .elementor-element.elementor-element-567911d {
+   padding: 0px 25px 0px 25px; 
+}
+}
+
+.elementor-6 .elementor-element.elementor-element-567911d {
+    padding: 0px 0px 0px 0px;
+}
+
+/*CORRIGIR GAP DE MARGENS*/
+
+@media (min-width:1025px) and (max-width:1210px) {
+  /*HOMEPAGE-Services*/
+.elementor-6 .elementor-element.elementor-element-36db80a{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*PAGINA INICIAL-Serviços*/
+.elementor-950 .elementor-element.elementor-element-36db80a{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*HOMEPAGE-Vision*/
+.elementor-6 .elementor-element.elementor-element-7d71124{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*PÁGINA INICIAL-Visão*/
+.elementor-950 .elementor-element.elementor-element-7d71124{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*HOMEPAGE-Footer*/
+.elementor-108 .elementor-element.elementor-element-45fa046a{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*PÁGINA INICIAL - Contactos*/
+.elementor-1007 .elementor-element.elementor-element-cda3a4d{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*ABOUT - Nature Lovers*/
+.elementor-7 .elementor-element.elementor-element-303906c{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*ABOUT - Numbers*/
+.elementor-7 .elementor-element.elementor-element-fc1fee8{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*SOBRE - Apaixonados pela natureza*/
+.elementor-956 .elementor-element.elementor-element-303906c{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*SOBRE - Números*/
+.elementor-956 .elementor-element.elementor-element-fc1fee8{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*SERVICES - image sections*/
+.elementor-8 .elementor-element.elementor-element-1b13cca{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/*SERVICES - We do*/
+.elementor-8 .elementor-element.elementor-element-1186045{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*SERVICES - image*/
+.elementor-8 .elementor-element.elementor-element-9881e30{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*SERVICES - The first appointment*/
+.elementor-8 .elementor-element.elementor-element-bd26f62{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*SERVIÇOS - secções imagens*/
+.elementor-967 .elementor-element.elementor-element-257c618{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/*SERVIÇOS - O que fazemos*/
+.elementor-967 .elementor-element.elementor-element-1186045{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*SERVIÇOS - Imagem*/
+.elementor-967 .elementor-element.elementor-element-9881e30{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*SERVIÇOS - Primeira consulta*/
+.elementor-967 .elementor-element.elementor-element-bd26f62{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*CONTACTS - Contact us*/
+.elementor-15 .elementor-element.elementor-element-3da3b63{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*Contactos - Contacte-nos*/
+.elementor-977 .elementor-element.elementor-element-3da3b63{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*Termos e Condições*/
+.elementor-1885 .elementor-element.elementor-element-1186045,
+/*Terms and Conditions*/
+.elementor-1900 .elementor-element.elementor-element-d46a087{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*Política de privacidade*/
+.elementor-2039 .elementor-element.elementor-element-1186045,
+/*Privacy Policy*/
+.elementor-2044 .elementor-element.elementor-element-36925d0{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*CORREÇÃO GAP MARGENS PÁGINAS SERVIÇOS EN*/
+
+/*Biological...*/
+.elementor-1648 .elementor-element.elementor-element-4ad5131,
+.elementor-1648 .elementor-element.elementor-element-778dd8b{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*Ceramic implants*/
+.elementor-1744 .elementor-element.elementor-element-f4e16fe,
+.elementor-1744 .elementor-element.elementor-element-778dd8b{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*Fixed...*/
+.elementor-1783 .elementor-element.elementor-element-0c482b1,
+.elementor-1783 .elementor-element.elementor-element-778dd8b{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*Teeth whitening*/
+.elementor-1814 .elementor-element.elementor-element-8e8217e,
+.elementor-1814 .elementor-element.elementor-element-778dd8b{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*Online consultations*/
+.elementor-1825 .elementor-element.elementor-element-046472c,
+.elementor-1825 .elementor-element.elementor-element-778dd8b{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+/*wisdom-tooth-removal*/
+.elementor-2075 .elementor-element.elementor-element-f4e16fe,
+.elementor-2075 .elementor-element.elementor-element-778dd8b{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*Medicina dentária biológica*/
+.elementor-1610 .elementor-element.elementor-element-1984bdb,
+.elementor-1610 .elementor-element.elementor-element-778dd8b{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*Implantes cerâmicos*/
+.elementor-1167 .elementor-element.elementor-element-6ad591c,
+.elementor-1167 .elementor-element.elementor-element-778dd8b{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*Dentes fixos em 24h*/
+.elementor-1135 .elementor-element.elementor-element-0747346,
+.elementor-1135 .elementor-element.elementor-element-778dd8b{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*Branqueamento dentário*/
+.elementor-1081 .elementor-element.elementor-element-6de36aa,
+.elementor-1081 .elementor-element.elementor-element-778dd8b{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+/*Consultas online*/
+.elementor-1019 .elementor-element.elementor-element-2590491,
+.elementor-1019 .elementor-element.elementor-element-778dd8b{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+/*Dentes do siso*/
+.elementor-2068 .elementor-element.elementor-element-0747346,
+.elementor-2068 .elementor-element.elementor-element-a535772,
+.elementor-2068 .elementor-element.elementor-element-778dd8b{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+}
+
+/*Esconder Contact us na versão normal*/
+@media (min-width: 768px){
+  .hide-desk {
+  display:none;
+}
+}
+
+/*Esconder títulos na versão mobile*/
+@media (max-width: 767px){
+  .hide-mobile {
+  display:none;
+}
+}
+
+/*Editar cor base dos elementos do menu para branco - desktop*/
+@media (min-width: 768px){
+.ast-theme-transparent-header .main-header-menu, .ast-theme-transparent-header .main-header-menu a, .ast-theme-transparent-header .ast-masthead-custom-menu-items, .ast-theme-transparent-header .ast-masthead-custom-menu-items a, .ast-theme-transparent-header .main-header-menu li > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu li > .ast-menu-toggle {
+  color: #ffffff;
+}
+}
+
+/*Editar cor base dos elementos do menu para verde - mobile*/
+@media (max-width: 921px){
+.ast-theme-transparent-header .main-header-menu, .ast-theme-transparent-header .main-header-menu a, .ast-theme-transparent-header .ast-masthead-custom-menu-items, .ast-theme-transparent-header .ast-masthead-custom-menu-items a, .ast-theme-transparent-header .main-header-menu li > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu li > .ast-menu-toggle {
+  color: #1C3B33;
+}
+}
+
+/*Editar elementos do menu em páginas ativas*/
+.ast-theme-transparent-header .main-header-menu > a, .ast-theme-transparent-header .main-header-menu > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .ast-masthead-custom-menu-items, .ast-theme-transparent-header .main-header-menu .focus > a, .ast-theme-transparent-header .main-header-menu .focus > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .current-menu-item > a, .ast-theme-transparent-header .main-header-menu .current-menu-ancestor > a, .ast-theme-transparent-header .main-header-menu .current_page_item > a, .ast-theme-transparent-header .main-header-menu .current-menu-item > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .current-menu-ancestor > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .current_page_item > .ast-menu-toggle {
+  font-weight:600;
+}
+
+/*Editar elementos do menu em páginas ativas - mobile*/
+@media (max-width: 921px){
+.ast-theme-transparent-header .main-header-menu > a, .ast-theme-transparent-header .main-header-menu > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .ast-masthead-custom-menu-items, .ast-theme-transparent-header .main-header-menu .focus > a, .ast-theme-transparent-header .main-header-menu .focus > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .current-menu-item > a, .ast-theme-transparent-header .main-header-menu .current-menu-ancestor > a, .ast-theme-transparent-header .main-header-menu .current_page_item > a, .ast-theme-transparent-header .main-header-menu .current-menu-item > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .current-menu-ancestor > .ast-menu-toggle, .ast-theme-transparent-header .main-header-menu .current_page_item > .ast-menu-toggle {
+  color: #1C3B33;
+}
+}
+
+.grecaptcha-badge {visibility:hidden}
